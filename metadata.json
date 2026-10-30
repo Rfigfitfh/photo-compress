@@ -1,0 +1,6 @@
+{
+  "name": "Image Compress Cloud",
+  "description": "Offline photo, signature, and thumb impression compressor & resizer for Indian government exams (UPSC, SSC, IBPS, RRB) with custom DPI, DOP name stamp, ridge enhancement, and Unity Ads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

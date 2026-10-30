@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Image Compress Cloud</string>
+    <string name="photo_compressor">Photo Studio</string>
+    <string name="signature_tool">Signature Tool</string>
+    <string name="thumb_impression">Thumb Impression</string>
+    <string name="exam_presets">Govt Exam Presets</string>
+</resources>
